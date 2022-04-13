@@ -1312,7 +1312,7 @@ msgstr "Szczegóły"
 #: ui/ProcessesTab.ui:70 ui/SensorsTab.ui:99 ui/ServicesTab.ui:103
 #: ui/StartupTab.ui:70 ui/UsersTab.ui:82
 msgid "Show all"
-msgstr ""
+msgstr "Pokaż wszystko"
 
 #: ui/ProcessesTab.ui:92
 msgid "Show processes from this user"
@@ -1328,11 +1328,11 @@ msgstr ""
 
 #: ui/ProcessesTab.ui:170
 msgid "Expand all"
-msgstr ""
+msgstr "Rozwiń wszystko"
 
 #: ui/ProcessesTab.ui:192
 msgid "Collapse all"
-msgstr ""
+msgstr "Zwiń wszystko"
 
 #: ui/RamHardwareWindow.ui:7
 msgid "RAM Hardware Information"
@@ -1396,7 +1396,7 @@ msgstr ""
 
 #: ui/ServicesDetailsWindow.ui:401
 msgid "Triggered By"
-msgstr ""
+msgstr "Uruchomione przez"
 
 #: ui/ServicesDetailsWindow.ui:441
 msgid "Can Start - Stop?"
@@ -1465,15 +1465,15 @@ msgstr ""
 
 #: ui/ServicesTab.ui:77 ui/SystemTab.ui:43
 msgid "Refresh the data on this tab"
-msgstr ""
+msgstr "Odśwież dane tej zakładki"
 
 #: ui/ServicesTab.ui:125
 msgid "Show all loaded services"
-msgstr ""
+msgstr "Pokaż wszystkie załadowane usługi"
 
 #: ui/ServicesTab.ui:147
 msgid "Show all non-loaded services"
-msgstr ""
+msgstr "Pokaż wszystkie niezaładowane usługi"
 
 #: ui/SettingsWindow.ui:7
 msgid "General Settings"
@@ -1485,11 +1485,11 @@ msgstr ""
 
 #: ui/SettingsWindow.ui:60
 msgid "Default main tab:"
-msgstr ""
+msgstr "Domyślna główna zakładka:"
 
 #: ui/SettingsWindow.ui:79
 msgid "Remember last opened tabs"
-msgstr ""
+msgstr "Zapamiętaj ostatnio otwarte zakładki"
 
 #: ui/SettingsWindow.ui:97
 msgid "Performance tab default sub-tab:"
@@ -1509,15 +1509,15 @@ msgstr ""
 
 #: ui/SettingsWindow.ui:265
 msgid "Remember window size"
-msgstr ""
+msgstr "Zapamiętaj rozmiar okna"
 
 #: ui/SettingsWindow.ui:416
 msgid "Network Download Speed"
-msgstr ""
+msgstr "Prędkość pobierania"
 
 #: ui/SettingsWindow.ui:430
 msgid "Network Upload Speed"
-msgstr ""
+msgstr "Prędkość wysyłania"
 
 #: ui/SettingsWindow.ui:448
 msgid "Show/Hide Performance Information"
