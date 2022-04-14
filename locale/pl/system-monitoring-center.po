@@ -3,6 +3,7 @@
 #
 # FIRST AUTHOR macszymk@outlook.com, 2022.
 # K0RR <rdkracz@gmail.com>, 2022.
+# Błażej Węsierski <wesierskiblazej(at)gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -353,19 +354,19 @@ msgstr ""
 
 #: src/Sensors.py:101
 msgid "Sensor Name"
-msgstr ""
+msgstr "Nazwa sensora"
 
 #: src/Sensors.py:102
 msgid "Current Value"
-msgstr ""
+msgstr "Wartość aktualna"
 
 #: src/Sensors.py:103
 msgid "Critical Value"
-msgstr ""
+msgstr "Wartość krytyczna"
 
 #: src/Sensors.py:104
 msgid "Max Value"
-msgstr ""
+msgstr "Wartość maksymalna"
 
 #: src/Sensors.py:354 src/SettingsGUI.py:345 ui/MainWindow.ui:409
 #: ui/SensorsTab.ui:77
@@ -374,7 +375,7 @@ msgstr "Czujniki"
 
 #: src/Services.py:149 ui/ServicesMenuCustomizations.ui:250
 msgid "State"
-msgstr ""
+msgstr "Stan"
 
 #: src/Services.py:150 ui/ServicesDetailsWindow.ui:428
 #: ui/ServicesMenuCustomizations.ui:264
